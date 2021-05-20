@@ -29,6 +29,7 @@
     background-size: cover;
     min-height: 600px;
     position: relative;
+    font-weight: bold;
 }
 .main-header .background-overlay{
     background: rgba(153, 220, 247, 0.705);
